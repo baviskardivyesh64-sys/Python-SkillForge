@@ -1,34 +1,68 @@
-🐍 Fundamental Booster & Logic Box
+# 🚀 Fundamental Booster
 
-Python Learning & Logic Building Projects
+### 🐍 Python Fundamentals Practice Project
 
-A collection of beginner-friendly projects created to improve programming skills, logical thinking, and problem-solving.
+A beginner-friendly Python project created to strengthen **Python fundamentals, coding logic, and problem-solving skills** through practical programs.
 
-📂 Projects
+---
 
-🐍 Fundamental Booster
+## 📌 About
 
-A practical project to learn and practice basic programming concepts.
+**Fundamental Booster** is a collection of small Python programs designed to practice the basics of programming in a simple and practical way.
 
-🧠 Logic Box
+The project focuses on understanding concepts by **writing and running code**, rather than only learning theory.
 
-A collection of exercises focused on logic building and problem solving.
+---
 
-🛠️ Tools
+## 🧠 Concepts Covered
 
-- 🐍 Python
-- 📓 Jupyter Notebook
-- 💻 GitHub
+* 🔤 Variables & Data Types
+* 🔄 Type Casting
+* ➕ Operators
+* 🔀 Conditional Statements
+* 🔁 Loops
+* 📦 Lists, Tuples & Sets
+* 🗂️ Dictionaries
+* ⌨️ User Input & Output
+* 🧩 Basic Problem Solving
+* 💡 Python Logic Building
 
-🎯 Learning Goals
+---
 
-- Improve programming logic
-- Practice problem solving
-- Build practical projects
-- Prepare for Data Analysis
+## 🛠️ Technology Used
 
-👨‍💻 Author
+**Python 🐍**
 
-Divyesh Baviskar
+**Jupyter Notebook 📓**
 
-«Learning • Building • Improving 🚀»
+---
+
+## 📂 Project Structure
+
+```text
+Fundamental-Booster/
+│
+├── 📓 Python Fundamental Projects
+├── 📓 Practice Programs
+└── 📄 README.md
+```
+
+---
+
+## 🎯 Purpose
+
+The main goal of this project is to build a **strong foundation in Python** and improve programming logic through regular practice.
+
+> **Learn → Practice → Build → Improve 🚀**
+
+---
+
+## 👨‍💻 Author
+
+**Divyesh Baviskar**
+
+Learning **Python & Data Analysis** through practical projects.
+
+---
+
+⭐ *This repository represents my journey of learning Python step by step.*
